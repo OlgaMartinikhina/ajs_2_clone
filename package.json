@@ -1,0 +1,23 @@
+{
+  "name": "ajs_2_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaMartinikhina/ajs_2_clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlgaMartinikhina/ajs_2_clone/issues"
+  },
+  "homepage": "https://github.com/OlgaMartinikhina/ajs_2_clone#readme",
+  "dependencies": {
+    "@olgamartinikhina/ajs_2": "^1.0.0"
+  }
+}
